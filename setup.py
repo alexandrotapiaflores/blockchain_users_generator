@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
   name='blockchain_users_generator',
-  version='0.2.0',
+  version='0.2.2',
   license='MIT',
   author="Alexandro Tapia",
   author_email='alexandro@zpace.link',
