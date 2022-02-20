@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-  name='users_generator',
+  name='blockchain_users_generator',
   version='0.1',
   license='MIT',
   author="Alexandro Tapia",
