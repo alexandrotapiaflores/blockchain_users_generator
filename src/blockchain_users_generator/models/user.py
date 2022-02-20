@@ -11,6 +11,7 @@ class User:
   first_name:       str
   last_name:        str
   full_name:        str
+  age:              int
   username:         str = None
   password:         str = None
   gender:           str = None

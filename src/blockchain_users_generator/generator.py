@@ -14,6 +14,7 @@ def generate_user():
     first_name        =  first_name,
     last_name         =  last_name,
     full_name         =  first_name + " " + last_name,
+    age               =  random.randint(1, 101),
     username          =  (first_name + last_name).lower() + str(random.randint(100, 9999)),
     password          =  hashlib.md5(uuid.uuid4().hex.encode()).digest().hex(),
     gender            =  models.user.get_random_user_gender(),
