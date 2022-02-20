@@ -1,4 +1,4 @@
-# Generate ramdom users with blockchain information included
+# Generate random users with blockchain information included
 
 ## Example of use
 
