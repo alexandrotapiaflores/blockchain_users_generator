@@ -9,7 +9,7 @@ setup(
   author_email='alexandro@zpace.link',
   packages=find_packages('src'),
   package_dir={'': 'src'},
-  url='https://github.com/gmyrianthous/example-publish-pypi',
+  url='https://github.com/alexandrotapiaflores/users_generator',
   keywords='users generator blockchain',
   install_requires=[
     "asn1crypto==1.4.0",
